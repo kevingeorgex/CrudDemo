@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="footballplayers" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\kevin\\Documents\\Visual\ Studio\ 2015\\Projects\\CrudDemo\\CrudDemo\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\kevin\\Documents\\Visual\ Studio\ 2015\\Projects\\CrudDemo\\CrudDemo\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="CrudDemo.Models.CrudContext-Web.config Connection String" description="" value="CrudDemo.Models.CrudContext_ConnectionString" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\kevin\\Documents\\Visual\ Studio\ 2015\\Projects\\CrudDemo\\CrudDemo\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CrudDemo.Models.CrudContext']/@connectionString" />
+  </parameter>
+</parameters>
